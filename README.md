@@ -48,6 +48,6 @@
   <strong>Anticheat-Test</strong> — Anticheat testing Minecraft server (IP: <code>anticheat-test.com</code>)
 </p>
 <h3 align="center">💬 Contact Me</h3>
-<p align="center">
+<!-- <p align="center">
   Discord: <code>@classloader</code>
-</p>
+</p> -->
