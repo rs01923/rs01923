@@ -47,7 +47,7 @@
   <strong>Neon Client</strong> — A Minecraft cheat with advanced gameplay modifications and enhancements (<a href="https://neonclient.com" target="_blank" rel="noreferrer">neonclient.com</a>)<br/>
   <strong>Anticheat-Test</strong> — Anticheat testing Minecraft server (IP: <code>anticheat-test.com</code>)
 </p>
-<h3 align="center">💬 Contact Me</h3>
+<!-- <h3 align="center">💬 Contact Me</h3> -->
 <!-- <p align="center">
   Discord: <code>@classloader</code>
 </p> -->
